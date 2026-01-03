@@ -1,0 +1,6 @@
+Product,Quantity,PricePerUnit,TotalSales,Region,Currency
+Smartphone,50,60000,3000000,Japan,JPY
+Laptop,20,120000,2400000,Japan,JPY
+Tablet,30,40000,1200000,Japan,JPY
+Smartwatch,40,25000,1000000,Japan,JPY
+Headphones,25,15000,375000,Japan,JPY
